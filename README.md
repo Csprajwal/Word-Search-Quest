@@ -37,7 +37,7 @@ Word Search Quest is an interactive word puzzle game where players find hidden w
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/word-search-quest.git
+git clone https://github.com/Csprajwal/Word-Search-Quest
 cd word-search-quest
 
 # Build debug APK
