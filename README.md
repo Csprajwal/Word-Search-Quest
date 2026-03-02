@@ -137,7 +137,7 @@ app/src/main/
 ### Setup Development Environment
 ```bash
 # Clone repository
-git clone https://github.com/MdZaheen/word-search-quest.git
+git clone https://github.com/Csprajwal/Word-Search-Quest
 
 # Open in Android Studio
 # Sync project with Gradle files
@@ -211,9 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Developer**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/MdZaheen)
+- **Developer**: Prajwal SB
+- **Email**: prajwal07mar@gmail.com
+- **GitHub**: https://github.com/Csprajwal/Word-Search-Quest
 
 ---
 
